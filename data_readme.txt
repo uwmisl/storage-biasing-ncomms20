@@ -1,5 +1,6 @@
-### coverage data are obtained by aligning raw sequencing data to correponding sequences using Burrows Wheeler Aligner 
+### coverage data are obtained by aligning raw sequencing data to corresponding sequences using Burrows Wheeler Aligner 
 
+data_UMI.csv are data for Fig. 2.
 
 Fig.5 experiments have triplicates
 ./fig5_expdata/Bias0.npy; sequencing coverage data of PCR with 200 copies of oligos
